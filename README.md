@@ -71,17 +71,11 @@
 ### 📌SCREENSHOTS :
 
 <p align="center">
-  <img width = 1000 src="Images/1.jpg" /><br>
-  <img width = 1000 src="Images/2.jpg" /><br>
-  <img width = 1000 src="Images/3.jpg" /><br>
-  <img width = 1000 src="Images/4.jpg" /><br>
-  <img width = 1000 src="Images/5.jpg" /><br>
-  <img width = 1000 src="Images/6.jpg" /><br>
-  <img width = 1000 src="Images/7.jpg" /><br>
-  <img width = 1000 src="Images/8.jpg" /><br>
-  <img width = 1000 src="Images/9.jpg" /><br>
-  <img width = 1000 src="Images/10.jpg" /><br>
-  <img width = 1000 src="Images/11.jpg" /><br>
+  <img width = 1000 src="ss1.png" /><br>
+  <img width = 1000 src="encryption.png" /><br>
+  <img width = 1000 src="decryption.png" /><br>
+  <img width = 1000 src="reset.png" /><br>
+  
 </p>
 
 ****
